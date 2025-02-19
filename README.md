@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug in HTML involving a missing semicolon in embedded JavaScript. The bug causes the JavaScript code to fail, preventing the intended modification of the HTML document. The solution provides the corrected code.
